@@ -1,0 +1,19 @@
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.exe.config
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.exe
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.pdb
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.exe
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.pdb
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.csprojResolveAssemblyReference.cache
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.frmStart.resources
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.Properties.Resources.resources
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.csproj.GenerateResource.Cache
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.exe.config
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.exe
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\bin\Debug\WiiU cetk Generator.pdb
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.frmStart.resources
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.frmTests.resources
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.Properties.Resources.resources
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.csproj.GenerateResource.Cache
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.exe
+C:\Users\FER\documents\visual studio 2012\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU cetk Generator.pdb
+C:\Users\fbirnfeld\Downloads\DOCS\Projects\WiiU cetk Generator\WiiU cetk Generator\obj\Debug\WiiU_cetk_Generator.frmTests.resources
